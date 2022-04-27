@@ -5,5 +5,9 @@ In this project, I learned to use JavaScript logic to be able to change the imag
 For example, PacMan's image must change from open mouth to closed mouth after every step he takes. Moreover, the images displayed also change based on whether he is going to the right or to the left. 
 # Instructions
 Press any key to get PacMan to start moving. Press any key again to get him to stop moving. 
+# Future Improvements
+Add directionality to the PacMan such that he moves acording to arrow-keys press. 
 # Website
-https://gtadeusoares.github.io/PacMan-01/ 
+Launch app: https://gtadeusoares.github.io/PacMan-01/ 
+# License 
+MIT License
